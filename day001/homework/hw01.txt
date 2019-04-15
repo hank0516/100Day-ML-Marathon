@@ -1,5 +1,0 @@
-0.我選的dataset: https://www.kaggle.com/datasnaek/youtube-new
-1. 現在每天有無數部影片被產生，現代人也習慣觀看影片勝於閱讀文字，youtuber的收入與影響力十分驚人。因此如果可以了解什麼影片會是熱門影片，便可以試著觀察、學習其模式。
-2. 資料提供者是Mitchell J, 是利用youtube API搜集得來的
-3. 資料型態為csv
-4. 這組資料希望找到年度最熱門的影片，由youtube列出年度最熱們影片的獲選名單 
